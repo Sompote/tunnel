@@ -1,0 +1,389 @@
+﻿TunnelDirection,Overbunden,RockType1,Color1,RockType2,Color2,RockType3,Color3,RockType4,Color4,Stringer,Degree of Weathering,Strike,Dip Angle,JointSpacing,NumberOfSpacing,Persistence,Aperture,Roughness,Infilling,Groundwater,Class
+42,20.10,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,20,75,<6,10,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,24.22,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,25,80,<6,13,<1,1-5,Slightly rough,Highly filling,Complete Dry,III Fair Rock 
+42,24.81,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,15,70,6-20,17,<1,1-5,Slightly rough,Highly filling,Complete Dry,III Fair Rock 
+42,25.42,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,25,85,6-20,22,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,26.00,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,25,75,6-20,21,<1,1-5,Slightly rough,Highly filling,Complete Dry,III Fair Rock 
+42,26.65,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,15,70,6-20,19,<1,1-5,Slightly rough,Highly filling,Complete Dry,III Fair Rock 
+42,27.26,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Fresh rock to slightly,23,85,6-20,30,<1,1-5,Slightly rough,Highly filling,Complete Dry,III Fair Rock 
+42,27.36,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,25,75,6-20,20,<1,0.1-1,Slightly rough,Highly filling,Damp,III Fair Rock 
+42,27.66,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,25,70,6-20,25,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,27.96,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,20,75,6-20,10,<1,1-5,Slightly rough,None,Damp,III Fair Rock 
+42,28.10,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,30,75,6-20,18,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+42,28.16,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,30,70,6-20,13,<1,1-5,Slightly rough,None,Damp,III Fair Rock 
+42,28.26,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,30,70,<6,3,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,28.36,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None,None,None,Moderately,30,70,<6,7,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,28.66,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,70,<6,12,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,29.00,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,70,6-20,7,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,29.89,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,70,6-20,17,<1,1-5,Slightly rough,None,Complete Dry,III Fair Rock 
+42,35.97,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,4,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,37.15,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,11,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,38.34,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,11,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,39.71,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,<6,5,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,40.72,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,11,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,41.95,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,43.17,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,18,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,44.43,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,46.97,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,9,<1,0.1-1,Slightly rough,None,Damp,II Good Rock
+42,48.27,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,9,<1,0.1-1,Slightly rough,None,Damp,II Good Rock
+42,49.55,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,3,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,50.84,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,10,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,52.14,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,20,85,6-20,6,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,53.43,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,20,85,6-20,8,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,54.72,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,8,<1,1-5,Slightly rough,None,Wet,III Fair Rock 
+42,56.07,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,15,<1,1-5,Slightly rough,None,Damp,III Fair Rock 
+42,57.41,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,20-60,24,<1,1-5,Slightly rough,None,Damp,II Good Rock
+42,58.75,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,20-60,15,<1,1-5,Slightly rough,None,Damp,II Good Rock
+42,60.10,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,20-60,26,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,61.52,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,20-60,10,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,62.93,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,20,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,65.81,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,28,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,68.89,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,20-60,24,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,70.44,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,20-60,16,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,72.63,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,30,80,6-20,7,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,73.66,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,220,65,20-60,20,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,75.13,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,220,65,20-60,5,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,76.77,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,35,85,20-60,15,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,78.51,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,20,75,20-60,15,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,80.15,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,20,75,20-60,19,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,81.65,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,20,75,6-20,25,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,83.17,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,6-20,10,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,84.68,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,20-60,12,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,86.12,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,6-20,8,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,87.65,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,6-20,10,<1,1-5,Slightly rough,Highly filling,Complete Dry,II Good Rock
+42,89.11,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,20-60,23,<1,1-5,Slightly rough,Highly filling,Complete Dry,II Good Rock
+42,90.55,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,20-60,21,<1,0.1-1,Slightly rough,None,Damp,II Good Rock
+42,93.24,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,6-20,8,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,94.62,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,20-60,15,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,95.97,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,25,75,20-60,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,98.01,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,22,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,100.57,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,17,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,101.86,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,20,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,103.64,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,14,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,II Good Rock
+42,105.40,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,13,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,II Good Rock
+42,106.91,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,108.44,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,12,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,109.96,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,14,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,111.44,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,10,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,113.06,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,114.37,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,115.83,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,118.70,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,11,<1,1-5,Slightly rough,None,Complete Dry,II Good Rock
+42,120.14,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,14,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,122.78,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,19,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,123.69,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,19,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,124.02,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,126.38,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,29,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,127.14,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,17,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,127.82,Biotite granite,"Light Gray, White, Gray",None,None,Biotite granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,24,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,131.70,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,132.59,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,133.47,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,134.36,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,15,<1,1-5,Slightly rough,Soft filling,Complete Dry,II Good Rock
+42,135.32,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,10,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,II Good Rock
+42,136.08,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,11,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,II Good Rock
+42,136.92,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,16,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,II Good Rock
+42,137.48,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,17,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,137.98,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,20-60,21,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,138.29,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+42,140.29,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Fresh rock to slightly,80,60,6-20,15,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,140.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,14,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,14,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,16,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,15,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,15,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.33,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,13,<1,0.1-1,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.33,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,22,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,14,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,15,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,16,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,14,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,17,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,14,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,13,<1,1-5,Slightly rough,Soft filling,Complete Dry,III Fair Rock 
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,16,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,12,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,11,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,12,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,12,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,12,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,11,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,20-60,7,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,140.35,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,134.87,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,133.51,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,8,<1,0.1-1,Slightly rough,Highly filling,Complete Dry,II Good Rock
+40,132.17,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,14,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,130.82,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,15,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,129.31,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,14,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,127.76,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,17,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,126.03,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,124.56,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,12,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,122.96,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,8,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,121.13,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,119.31,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,117.54,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,115.83,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,8,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,113.96,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,112.71,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,80,60,20-60,10,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+40,111.60,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,15,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+40,110.50,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,12,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+40,109.42,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,9,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+37,107.99,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,10,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+37,106.15,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,14,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+37,105.08,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,25,75,6-20,10,<1,0.1-1,Slightly rough,None,Damp,III Fair Rock 
+37,102.47,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,8,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,100.74,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,8,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,99.52,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,10,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,98.20,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,16,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,96.88,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,12,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,95.43,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,94.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,93.13,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,91.78,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,14,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,90.55,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,14,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,89.56,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,88.44,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,9,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,87.50,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,86.43,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,13,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,84.45,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,16,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,83.36,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,11,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,81.58,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,12,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,79.50,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,40,60,6-20,12,<1,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,77.79,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,100,60,6-20,4,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+37,75.59,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,100,60,6-20,3,1-3,0.1-1,Slightly rough,Soft filling,Complete Dry,II Good Rock
+20,74.89,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,73.76,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,72.85,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,71.83,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,69.81,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,68.83,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,67.84,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,1,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,66.85,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,65.75,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,65.01,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,1,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,64.20,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,63.90,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,63.20,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,62.64,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,60,6-20,1,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,61.93,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,61.13,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,60.44,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,59.89,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,59.34,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,58.82,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,58.26,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,57.72,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,57.17,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,56.64,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,56.08,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,55.73,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,55.73,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,56.21,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,56.77,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,57.40,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,3,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,57.91,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,58.48,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Slightly,120,65,6-20,2,1-3,0.1-1,Slightly rough,None,Complete Dry,II Good Rock
+5,58.86,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,65,6-20,4,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,59.23,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,65,6-20,4,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,59.61,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,65,6-20,4,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,59.99,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,65,6-20,4,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,60.63,Granite,"Light Gray, White, Gray",None,None,Granite,"Light Gray, White, Gray",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,60.74,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,61.75,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,63.86,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,64.50,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,65.90,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,66.43,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,65.95,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,67.48,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,9,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,68.53,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,8,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,69.06,Granite,"Dark Gray, Brownish grey ",None,None,Granite,"Dark Gray, Brownish grey ",None ,None,None,Moderately,30,65,6-20,8,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,69.58,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,30,65,6-20,12,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,70.11,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,275,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,70.63,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,25,65,6-20,5,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+5,71.11,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,30,65,6-20,6,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,71.46,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,30,65,6-20,6,3-10,0.1-1,Slightly rough,Soft filling,Damp,II Good Rock
+5,71.75,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,25,65,6-20,6,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+0,72.08,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Moderately,30,65,6-20,6,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+0,72.28,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Highly,30,65,6-20,6,3-10,0.1-1,Slightly rough,Soft filling,Damp,III Fair Rock 
+0,72.88,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Highly,25,65,6-20,6,3-10,0.1-1,Smooths,Soft filling,Damp,IV Poor Rock
+0,73.08,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Highly,25,65,6-20,6,3-10,0.1-1,Smooths,Soft filling,Damp,IV Poor Rock
+0,73.08,Calc-silicate Marble,"Brownish green,Yellowish green",None,None,Calc-silicate Marble,"Brownish green,Yellowish green",None ,None,None,Highly,25,65,6-20,7,3-10,0.1-1,Smooths,Soft filling,Damp,IV Poor Rock
+0,76.53,Falulted calc-silicate,"Brown, Yellowish Brown",None,None ,Falulted calc-silicate,"Brown, Yellowish Brown",None,None ,None,Highly,130,65,6-20,7,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,77.05,Falulted calc-silicate,"Brown, Yellowish Brown",None,None ,Falulted calc-silicate,"Brown, Yellowish Brown",None,None ,None,Highly,130,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,78.08,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,78.60,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,79.11,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,79.63,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,130,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,80.14,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,130,65,6-20,1,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,80.65,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,81.10,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,130,65,20-60,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,81.52,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,81.94,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,82.34,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,82.75,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,83.17,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,20-60,4,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,83.59,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,84.00,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,84.41,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,84.82,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,85.23,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,85.65,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Wet,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,250,65,6-20,2,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,250,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Wet,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,250,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Wet,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,250,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Wet,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Highly,30,65,6-20,5,3-10,0.1-1,Smooths,Soft filling,Dripping,IV Poor Rock
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.78,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.42,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,85.04,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,84.66,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,84.27,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,83.89,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,83.52,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,83.13,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,4,3-10,0.1-1,Smooths,Soft filling,Damp,III Fair Rock 
+0,82.75,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,82.37,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,81.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,81.61,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,81.23,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,80.78,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,80.24,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,79.67,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,79.12,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,78.58,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,78.14,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,77.49,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,76.94,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,76.45,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,75.86,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,75.35,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,74.83,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,74.31,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,73.81,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,73.28,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,72.75,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,72.23,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,71.70,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,71.17,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,70.98,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,71.08,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,71.79,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,72.50,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,73.21,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,73.93,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,74.64,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,75.36,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,76.08,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,76.82,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,77.56,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,78.67,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,79.79,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,80.89,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,82.00,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,83.11,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,84.23,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,85.34,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,86.45,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,88.67,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,89.78,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,90.89,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,92.02,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,93.16,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,90,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,94.28,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,95.41,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,96.57,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,97.81,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,99.05,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,99.15,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,99.34,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,99.46,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,100.14,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,101.08,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,101.85,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,102.00,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,103.13,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,104.36,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,106.16,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,107.63,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,108.03,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,109.38,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,109.81,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,110.10,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,111.99,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,112.35,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,113.50,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,114.53,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,115.13,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,115.91,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,116.12,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,116.92,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,117.21,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,118.41,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,119.16,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,119.96,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,120.35,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,120.95,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,121.56,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,122.26,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,122.86,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,123.46,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,124.14,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,124.48,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,125.18,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,126.12,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,126.62,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,127.24,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,127.94,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,128.19,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,128.97,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,129.74,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,130.17,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,130.97,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,131.19,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,131.97,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,132.94,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,133.39,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,134.34,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,135.37,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,135.71,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,136.19,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,136.93,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,137.38,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,138.85,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,139.52,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,140.02,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
+0,141.29,Impure Marble,Gray to light gray,None,None ,Impure Marble,Gray to light gray,None,None ,None,Moderately,30,65,6-20,3,3-10,0.1-1,Smooths,Soft filling,Complete Dry,III Fair Rock 
